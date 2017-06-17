@@ -6,8 +6,8 @@ https://github.com/alvarosg88/Yavin-AndroidWebglVR-demo
 
 Simple implementation of a web demo developed with three.js within a WebView and compatible with Google Cardboard.
 
-Download it from Google Play! ( Old version )
-https://play.google.com/store/apps/details?id=com.hb_asg.yavin
+Download it from Google Play!
+https://play.google.com/store/apps/details?id=com.hbasg.yavin&hl=es
 
 - WebGL development by Álvaro Serrano (alvarosg88)
 - Android implementation by Gonzalo Toledano (Gnzlt)
